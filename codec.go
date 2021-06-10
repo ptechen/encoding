@@ -5,8 +5,8 @@ import (
 	"encoding/gob"
 	"io"
 
-	jsoniter "github.com/json-iterator/go"
-	"github.com/json-iterator/go/extra"
+	jsoniter "github.com/ptechen/go"
+	"github.com/ptechen/go/extra"
 )
 
 func init() {
